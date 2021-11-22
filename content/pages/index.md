@@ -66,7 +66,7 @@ sections:
   - elementId: ''
     variant: variant-a
     colors: colors-h
-    title: Latest news
+    title: Latest news.
     subtitle: Latest blog posts section example
     actions:
       - type: Button
